@@ -1,7 +1,7 @@
 # RAW Converter – RAW Photo Processor
 
 <p align="center">
-  <img src="https://static.macupdate.com/products/60955/m/raw-converter-ultimate-logo.png?v=1628178343" width="200" alt="RAW Converter icon"/>
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/e5/62/15e56296-f909-91a0-7f50-a6f1c0f7e37a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200ia-75.webp" width="200" alt="RAW Converter icon"/>
 </p>
 
 <p align="center">
